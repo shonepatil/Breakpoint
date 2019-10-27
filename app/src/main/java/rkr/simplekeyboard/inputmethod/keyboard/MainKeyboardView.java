@@ -555,9 +555,9 @@ public final class MainKeyboardView extends KeyboardView implements MoreKeysPane
 //            setBackgroundColor(mCustomColor);
 //        }
 
-        IamAuthenticator authenticator = new IamAuthenticator("Ode4r3Hdf_Wu_Q0T7Lg4bPTOaA2768vFU-AQue0ryvEu");
+        IamAuthenticator authenticator = new IamAuthenticator("");
         NaturalLanguageUnderstanding naturalLanguageUnderstanding = new NaturalLanguageUnderstanding("2019-07-12", authenticator);
-        naturalLanguageUnderstanding.setServiceUrl("https://gateway.watsonplatform.net/natural-language-understanding/api");
+        naturalLanguageUnderstanding.setServiceUrl("");
 
         String text = "food is good";
 
@@ -590,7 +590,7 @@ public final class MainKeyboardView extends KeyboardView implements MoreKeysPane
                 float g = 0;
                 float b = 0;
                 if(response.getSentiment().toString().contains("eutral")){
-                    setBackgroundColor(mCustomColor);
+                    setBackgroundColor(Color.YELLOW);
                 } else {
                     int i = response.getSentiment().toString().indexOf("core");
 
@@ -606,6 +606,7 @@ public final class MainKeyboardView extends KeyboardView implements MoreKeysPane
 
                     r = Math.abs(((colorNumber - 1) / (2) * 255));
                     g = ((colorNumber + 1) / (2) * 255);
+                    System.out.println(r + " " + g + " " + b);
 
                     setBackgroundColor(Color.rgb((int) r, (int) g, (int) b));
                     run = false;
