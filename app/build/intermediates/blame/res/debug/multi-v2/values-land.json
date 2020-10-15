@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values-land/config.xml",
+                    "from": {
+                        "startLines": "22,26,42,41,30,33,40,48,47,38,46,45,44,43,49,37,36,35,50,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "740,958,1959,1896,1168,1390,1811,2353,2284,1683,2221,2151,2087,2021,2421,1614,1540,1467,2498,1023",
+                        "endColumns": "55,64,61,62,69,75,84,67,68,70,62,69,63,65,76,68,73,72,78,63",
+                        "endOffsets": "791,1018,2016,1954,1233,1461,1891,2416,2348,1749,2279,2216,2146,2082,2493,1678,1609,1535,2572,1082"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,111,176,238,301,371,447,532,600,669,740,803,873,937,1003,1080,1149,1223,1296,1375",
+                        "endColumns": "55,64,61,62,69,75,84,67,68,70,62,69,63,65,76,68,73,72,78,63",
+                        "endOffsets": "106,171,233,296,366,442,527,595,664,735,798,868,932,998,1075,1144,1218,1291,1370,1434"
+                    }
+                }
+            ]
+        }
+    ]
+}

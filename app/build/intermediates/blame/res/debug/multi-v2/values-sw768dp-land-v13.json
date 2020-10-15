@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw768dp-land-v13/values-sw768dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values-sw768dp-land/config.xml",
+                    "from": {
+                        "startLines": "24,32,38,37,30,36,35,34,39,29,28,27,40,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "901,1319,1656,1587,1247,1524,1454,1390,1724,1178,1104,1031,1801,966",
+                        "endColumns": "64,69,67,68,70,62,69,63,76,68,73,72,77,63",
+                        "endOffsets": "961,1384,1719,1651,1313,1582,1519,1449,1796,1242,1173,1099,1874,1025"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,120,190,258,327,398,461,531,595,672,741,815,888,966",
+                        "endColumns": "64,69,67,68,70,62,69,63,76,68,73,72,77,63",
+                        "endOffsets": "115,185,253,322,393,456,526,590,667,736,810,883,961,1025"
+                    }
+                }
+            ]
+        }
+    ]
+}

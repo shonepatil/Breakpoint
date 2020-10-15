@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw430dp-v13/values-sw430dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values-sw430dp/config-screen-metrics.xml",
+                    "from": {
+                        "startLines": "22",
+                        "startColumns": "4",
+                        "startOffsets": "763",
+                        "endColumns": "53",
+                        "endOffsets": "812"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "453",
+                        "endColumns": "53",
+                        "endOffsets": "502"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values-sw430dp/config-per-form-factor.xml",
+                    "from": {
+                        "startLines": "24,25,22,26,29,30",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "872,934,730,993,1178,1256",
+                        "endColumns": "61,58,72,68,77,56",
+                        "endOffsets": "929,988,798,1057,1251,1308"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,117,176,249,318,396",
+                        "endColumns": "61,58,72,68,77,56",
+                        "endOffsets": "112,171,244,313,391,448"
+                    }
+                }
+            ]
+        }
+    ]
+}

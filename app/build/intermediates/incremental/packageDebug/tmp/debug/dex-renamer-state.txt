@@ -1,0 +1,4 @@
+#Sun Oct 27 09:14:44 PDT 2019
+base.0=/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values-v21/platform-theme.xml",
+                    "from": {
+                        "startLines": "22,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "779,683",
+                        "endColumns": "97,95",
+                        "endOffsets": "872,774"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,152",
+                        "endColumns": "96,94",
+                        "endOffsets": "147,242"
+                    }
+                }
+            ]
+        }
+    ]
+}

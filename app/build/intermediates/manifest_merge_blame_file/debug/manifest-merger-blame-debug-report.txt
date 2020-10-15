@@ -1,0 +1,119 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3 Copyright (C) 2012 The Android Open Source Project
+4
+5     Licensed under the Apache License, Version 2.0 (the "License");
+6     you may not use this file except in compliance with the License.
+7     You may obtain a copy of the License at
+8
+9          http://www.apache.org/licenses/LICENSE-2.0
+10
+11     Unless required by applicable law or agreed to in writing, software
+12     distributed under the License is distributed on an "AS IS" BASIS,
+13     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14     See the License for the specific language governing permissions and
+15     limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="rkr.simplekeyboard.inputmethod"
+19    android:versionCode="64"
+20    android:versionName="3.14" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="19"
+23-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml
+24        android:targetSdkVersion="29" />
+24-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml
+25
+26    <uses-permission android:name="android.permission.VIBRATE" />
+26-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:20:5-66
+26-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:20:22-63
+27    <uses-permission android:name="android.permission.INTERNET" />
+27-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:21:5-66
+27-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:21:22-64
+28    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+28-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:22:5-78
+28-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:22:22-76
+29
+30    <application
+30-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:24:5-66:19
+31        android:allowBackup="true"
+31-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:25:9-35
+32        android:debuggable="true"
+33        android:icon="@drawable/ic_launcher_keyboard"
+33-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:26:9-54
+34        android:label="@string/english_ime_name"
+34-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:27:9-49
+35        android:supportsRtl="true" >
+35-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:28:9-35
+36        <activity
+36-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:29:9-38:20
+37            android:name="rkr.simplekeyboard.inputmethod.keyboard.SetupActivity"
+37-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:30:13-51
+38            android:label="@string/english_ime_name"
+38-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:31:13-53
+39            android:theme="@style/platformSettingsTheme" >
+39-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:32:13-57
+40            <intent-filter>
+40-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:33:13-37:29
+41                <action android:name="android.intent.action.MAIN" />
+41-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:34:17-69
+41-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:34:25-66
+42
+43                <category android:name="android.intent.category.LAUNCHER" />
+43-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:36:17-77
+43-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:36:27-74
+44            </intent-filter>
+45        </activity>
+46        <!-- Services -->
+47        <service
+47-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:40:9-51:19
+48            android:name="rkr.simplekeyboard.inputmethod.latin.LatinIME"
+48-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:41:13-43
+49            android:label="@string/english_ime_name"
+49-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:42:13-53
+50            android:permission="android.permission.BIND_INPUT_METHOD" >
+50-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:43:13-70
+51            <intent-filter>
+51-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:44:13-46:29
+52                <action android:name="android.view.InputMethod" />
+52-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:45:17-67
+52-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:45:25-64
+53            </intent-filter>
+54
+55            <meta-data
+55-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:48:13-50:50
+56                android:name="android.view.im"
+56-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:49:17-47
+57                android:resource="@xml/method" />
+57-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:50:17-47
+58        </service>
+59
+60        <activity
+60-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:53:9-60:20
+61            android:name="rkr.simplekeyboard.inputmethod.latin.settings.SettingsActivity"
+61-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:54:13-60
+62            android:label="@string/english_ime_settings"
+62-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:55:13-57
+63            android:theme="@style/platformSettingsTheme" >
+63-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:56:13-57
+64            <intent-filter>
+64-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:57:13-59:29
+65                <action android:name="android.intent.action.MAIN" />
+65-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:34:17-69
+65-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:34:25-66
+66            </intent-filter>
+67        </activity> <!-- Broadcast receivers -->
+68        <receiver android:name="rkr.simplekeyboard.inputmethod.latin.SystemBroadcastReceiver" >
+68-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:61:9-65:20
+68-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:61:19-64
+69            <intent-filter>
+69-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:62:13-64:29
+70                <action android:name="android.intent.action.LOCALE_CHANGED" />
+70-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:63:17-79
+70-->/Users/shonepatil/AndroidStudioProjects/Project Breakpoint/app/src/main/AndroidManifest.xml:63:25-76
+71            </intent-filter>
+72        </receiver>
+73    </application>
+74
+75</manifest>

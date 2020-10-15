@@ -1,0 +1,371 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/keypress-volumes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "61",
+                        "startColumns": "4",
+                        "startOffsets": "2835",
+                        "endLines": "68",
+                        "endColumns": "19",
+                        "endOffsets": "3165"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/strings-appname.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "229,230",
+                        "startColumns": "4,4",
+                        "startOffsets": "11851,11933",
+                        "endColumns": "81,94",
+                        "endOffsets": "11928,12023"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/keyboard-themes.xml",
+                    "from": {
+                        "startLines": "36,-1,-1",
+                        "startColumns": "4,-1,-1",
+                        "startOffsets": "1361,-1,-1",
+                        "endLines": "41,-1,-1",
+                        "endColumns": "12,-1,-1",
+                        "endOffsets": "1566,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,8,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "105,315,495",
+                        "endLines": "7,13,19",
+                        "endColumns": "12,20,19",
+                        "endOffsets": "310,490,790"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/donottranslate.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "69,105,114,127,131,262,266,267,268,269,271,272,273,274,276,277",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3170,4433,4704,5140,5280,14331,14555,14602,14659,14722,14902,14965,15026,15089,15276,15342",
+                        "endLines": "104,113,122,130,137,262,266,267,268,269,271,272,273,274,276,277",
+                        "endColumns": "19,19,19,19,19,58,46,56,62,64,62,60,62,62,65,63",
+                        "endOffsets": "4428,4699,4960,5275,5486,14385,14597,14654,14717,14782,14960,15021,15084,15147,15337,15401"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/config-common.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "140,161,165,166,171,172,186,187,193,194,195,196,197,198,199,200,201,202,203,204,205,206,207,208,209,210,212,213,214",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5612,7046,7324,7392,7778,7849,8824,8889,9291,9362,9447,9516,9583,9643,9709,9768,9829,9889,9963,10034,10097,10157,10220,10280,10344,10403,10520,10598,10677",
+                        "endColumns": "61,83,67,75,70,70,64,65,70,84,68,66,59,65,58,60,59,73,70,62,59,62,59,63,58,62,77,78,66",
+                        "endOffsets": "5669,7125,7387,7463,7844,7915,8884,8950,9357,9442,9511,9578,9638,9704,9763,9824,9884,9958,10029,10092,10152,10215,10275,10339,10398,10461,10593,10672,10739"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/donottranslate-config-spacing-and-punctuations.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "192,215,282,283",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "9238,10744,15660,15721",
+                        "endLines": "192,215,282,284",
+                        "endColumns": "52,51,60,41",
+                        "endOffsets": "9286,10791,15716,15805"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/themes-common.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "286,287,314,387,481,524",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "15878,15908,17195,22336,29851,32990",
+                        "endLines": "286,297,314,424,481,524",
+                        "endColumns": "29,12,33,12,58,40",
+                        "endOffsets": "15903,16676,17224,25398,29905,33026"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/keyboard-icons-lxx-light.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "335",
+                        "startColumns": "4",
+                        "startOffsets": "18647",
+                        "endLines": "354",
+                        "endColumns": "12",
+                        "endOffsets": "20077"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "145,146,147,148,149,150,151,152,153,154,155,156,157",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5951,6019,6088,6159,6231,6298,6366,6426,6485,6554,6624,6702,6779",
+                        "endColumns": "67,68,70,71,66,67,59,58,68,69,77,76,77",
+                        "endOffsets": "6014,6083,6154,6226,6293,6361,6421,6480,6549,6619,6697,6774,6852"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/themes-lxx-dark.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "298,355,425,482,514,525",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "16681,20082,25403,29910,32516,33031",
+                        "endLines": "301,362,438,489,518,530",
+                        "endColumns": "12,12,12,12,12,12",
+                        "endOffsets": "16797,20623,26488,30543,32747,33453"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/predefined-subtypes.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "123",
+                        "startColumns": "4",
+                        "startOffsets": "4965",
+                        "endLines": "126",
+                        "endColumns": "19",
+                        "endOffsets": "5135"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/keyboard-icons-lxx-dark.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "315",
+                        "startColumns": "4",
+                        "startOffsets": "17229",
+                        "endLines": "334",
+                        "endColumns": "12",
+                        "endOffsets": "18642"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/strings-action-keys.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "240,241",
+                        "startColumns": "4,4",
+                        "startOffsets": "12726,12797",
+                        "endColumns": "70,68",
+                        "endOffsets": "12792,12861"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/spinner-style.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "537",
+                        "startColumns": "4",
+                        "startOffsets": "33889",
+                        "endLines": "539",
+                        "endColumns": "12",
+                        "endOffsets": "34001"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/platform-theme.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "540,541",
+                        "startColumns": "4,4",
+                        "startOffsets": "34006,34097",
+                        "endColumns": "90,85",
+                        "endOffsets": "34092,34178"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/keypress-vibration-durations.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "795",
+                        "endLines": "60",
+                        "endColumns": "19",
+                        "endOffsets": "2830"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/themes-lxx-dark-border.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "302,363,439,490",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "16802,20628,26493,30548",
+                        "endLines": "305,370,452,497",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "16931,21197,27601,31195"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/themes-lxx-light.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "306,371,453,498,519,531",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "16936,21202,27606,31200,32752,33458",
+                        "endLines": "309,378,466,505,523,536",
+                        "endColumns": "12,12,12,12,12,12",
+                        "endOffsets": "17054,21750,28712,31846,32985,33884"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/config.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "144,158,159,160,162,163,164,167,168,169,170,173,174,175,176,177,178,179,180,181,182,183,184,185,188,189,190,191",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5894,6857,6922,6983,7130,7192,7255,7468,7538,7617,7693,7920,7988,8057,8128,8191,8261,8326,8390,8456,8534,8611,8679,8748,8955,9028,9107,9171",
+                        "endColumns": "56,64,60,62,61,62,68,69,78,75,84,67,68,70,62,69,64,63,65,77,76,67,68,75,72,78,63,66",
+                        "endOffsets": "5946,6917,6978,7041,7187,7250,7319,7533,7612,7688,7773,7983,8052,8123,8186,8256,8321,8385,8451,8529,8606,8674,8743,8819,9023,9102,9166,9233"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "216,217,218,219,220,221,222,223,224,225,226,227,228,231,232,233,234,235,236,237,238,239,242,243,244,245,246,247,248,249,250,251,252,253,254,255,256,257,258,259,260,261,263,264,265,270,275,278,279,280,281,285",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "10796,10893,11002,11038,11086,11143,11231,11282,11450,11613,11687,11741,11783,12028,12106,12167,12238,12307,12362,12445,12542,12627,12866,12929,13013,13057,13121,13207,13282,13369,13468,13510,13548,13602,13664,13744,13812,13868,13935,14134,14203,14267,14390,14445,14500,14787,15152,15406,15458,15529,15602,15810",
+                        "endColumns": "96,108,35,47,56,87,50,167,162,73,53,41,67,77,60,70,68,54,82,96,84,98,62,83,43,63,85,74,86,98,41,37,53,61,79,67,55,66,198,68,63,63,54,54,54,114,123,51,70,72,57,67",
+                        "endOffsets": "10888,10997,11033,11081,11138,11226,11277,11445,11608,11682,11736,11778,11846,12101,12162,12233,12302,12357,12440,12537,12622,12721,12924,13008,13052,13116,13202,13277,13364,13463,13505,13543,13597,13659,13739,13807,13863,13930,14129,14198,14262,14326,14440,14495,14550,14897,15271,15453,15524,15597,15655,15873"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/themes-lxx-light-border.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "310,379,467,506",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "17059,21755,28717,31851",
+                        "endLines": "313,386,480,513",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "17190,22331,29846,32511"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/config-per-form-factor.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "138,139,141,142,143",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "5491,5553,5674,5747,5816",
+                        "endColumns": "61,58,72,68,77",
+                        "endOffsets": "5548,5607,5742,5811,5889"
+                    }
+                },
+                {
+                    "source": "/Users/shonepatil/AndroidStudioProjects/simple-keyboard-master/app/src/main/res/values/config-screen-metrics.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "211",
+                        "startColumns": "4",
+                        "startOffsets": "10466",
+                        "endColumns": "53",
+                        "endOffsets": "10515"
+                    }
+                }
+            ]
+        }
+    ]
+}
